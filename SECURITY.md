@@ -1,5 +1,7 @@
 # Security Vulnerabilities
 
+⚠️This project has just been started and is work in progress.
+
 Our team is doing there best to ensure security across our codebase. Nevertheless, mistakes happen and we are grateful for anyone reports possible vulnerabilities.
 
 ## Disclosing security issues
