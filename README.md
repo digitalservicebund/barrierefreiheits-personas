@@ -1,14 +1,6 @@
-# Template for open source projects
+# Barrierefreiheits Personas
 
-You can use this template when open sourcing your project! < replace this line with a concise summary of your project.
-
-## Getting started
-
-Explain how to start the project after first checkout. Don't assume deep familiarity with the patterns of your eco-system!
-
-## Usage
-
-List the main entry-points of this project. This may include running a dev server, building, running tests or similar.
+Dieses Projekt stellt Personas als Hilfsmittel für die Erarbeitung und das Testen von barrierefreien Websites, Webanwendungen und Apps zur Verfügung.
 
 ## Contributing
 
@@ -20,6 +12,6 @@ To contribute code, simply open a pull request with your changes and it will be 
 
 ## Mitwirken
 
-Jede:r ist herzlich eingeladen, die Entwicklung der _Project_ mitzugestalten. Du kannst einen Beitrag leisten, indem du Feedback gibst, Probleme beschreibst, Fragen beantwortest, die Dokumentation erweiterst, oder Pull-Requests eröffnest. Bitte befolge immer die Richtlinien und unseren [Verhaltenskodex](CODE_OF_CONDUCT.md).
+Jede:r ist herzlich eingeladen, die Entwicklung der Barrierefreiheits Personas mitzugestalten. Du kannst einen Beitrag leisten, indem du Feedback gibst, Probleme beschreibst, Fragen beantwortest, die Dokumentation erweiterst, oder Pull-Requests eröffnest. Bitte befolge immer die Richtlinien und unseren [Verhaltenskodex](CODE_OF_CONDUCT.md).
 
 Um Code beizutragen erstelle einfach einen Pull Requests mit deinen Änderungen, dieser wird dann von einer Person aus dem Team überprüft. Durch das Eröffnen eines Pull-Requests erklärst du ausdrücklich, dass du das Recht hast deine Beitrag an den DigitalService und die Community unter der vom Projekt gewählten Lizenz zu lizenzieren.
